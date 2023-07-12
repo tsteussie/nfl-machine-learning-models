@@ -1,2 +1,2 @@
 ## nfl-machine-learning-models
-#### Machine learning models to predict NFL events using nfl-data-py.
+#### Machine learning models to predict NFL events using nfl-data-py
